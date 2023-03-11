@@ -1,5 +1,5 @@
 <h2>About Me:</h2>
-<p>I am associated with the IT industry from the beginning of my professional work. I have worked in recent years in the area of IT outsourcing, thus I was able to get to know many computer science technologies. Currently I would like to focus on .NET/C# programmer work.</p>
+<p>I have been involved in the IT industry since the beginning of my professional career. Over the past few years, I have worked in IT outsourcing, which allowed me to gain knowledge of various computer science technologies. Currently I would like to focus on .NET/C# programmer work.</p>
 
 <h2>Tech Skills:</h2>
 <p>
